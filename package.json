@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Phil Pastorek",
+  "email": "contact@hirethisdeveloper.com",
   "license": "ISC",
   "dependencies": {
     "performance-now": "^2.1.0",
