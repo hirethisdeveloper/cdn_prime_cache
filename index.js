@@ -1,6 +1,5 @@
 var r      = require('requestify');
 var now    = require('performance-now');
-var uuidv4 = require('uuid/v4');
 
 var urls           = [
     // pages
