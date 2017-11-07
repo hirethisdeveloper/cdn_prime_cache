@@ -3,6 +3,8 @@
 ## project urls file, custom for each project
 urls.json
 
+.idea/
+
 ### Node template
 # Logs
 logs
